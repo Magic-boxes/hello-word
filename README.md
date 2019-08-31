@@ -1,2 +1,3 @@
 # hello-word
-only a repository
+only a repositorys
+edit readme
